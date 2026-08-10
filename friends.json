@@ -1,0 +1,156 @@
+[
+  {
+    "title": "Firefly Docs",
+    "desc": "Firefly主题模板文档",
+    "siteurl": "https://docs-firefly.cuteleaf.cn",
+    "imgurl": "/friends/avatars/firefly-docs.avif",
+    "tags": [
+      "Docs"
+    ],
+    "weight": 10,
+    "enabled": true
+  },
+  {
+    "title": "Mizuki-Ultra",
+    "desc": "一个简约&功能丰富的 Astro 博客 主题",
+    "siteurl": "https://docs.mizuki.mysqil.com/",
+    "imgurl": "/friends/avatars/mizuki-ultra.avif",
+    "tags": [
+      "Docs"
+    ],
+    "weight": 8,
+    "enabled": true
+  },
+  {
+    "title": "Sigrika-善良耙耙柑🍊",
+    "desc": "记录我的二次元之旅",
+    "siteurl": "https://qwq.sigrika.cc/",
+    "imgurl": "/friends/avatars/sigrika.webp",
+    "tags": [
+      "Astro"
+    ],
+    "weight": 8,
+    "enabled": true
+  },
+  {
+    "title": "Nachcekoの小窝",
+    "desc": "1つの熱愛の2次元の小さい萌の新しい~ /.こんにちはnya~です",
+    "siteurl": "https://blog.nachceko.qzz.io",
+    "imgurl": "/friends/avatars/nachceko.avif",
+    "tags": [
+      "Astro"
+    ],
+    "weight": 8,
+    "enabled": true
+  },
+  {
+    "title": "Hyde Blog",
+    "desc": "人心中的成见是一座大山",
+    "siteurl": "https://seasir.top",
+    "imgurl": "/friends/avatars/hyde-blog.avif",
+    "tags": [
+      "Astro"
+    ],
+    "weight": 8,
+    "enabled": true
+  },
+  {
+    "title": "二叉树树",
+    "desc": "二叉树树的个人网站 —— 包含技术博客、论坛社区、AI 生图、实用在线工具等",
+    "siteurl": "https://2x.nz",
+    "imgurl": "/friends/avatars/q2-qlogo-cn.avif",
+    "tags": [
+      "Blog"
+    ],
+    "weight": 8,
+    "enabled": true
+  },
+  {
+    "title": "Bai'Blog",
+    "desc": "Actions speak louder than words",
+    "siteurl": "https://baiblog.vip",
+    "imgurl": "/friends/avatars/bai-blog.avif",
+    "tags": [
+      "Blog"
+    ],
+    "weight": 8,
+    "enabled": true
+  },
+  {
+    "title": "孤久きりのなか",
+    "desc": "生当作人杰，死亦为鬼雄。",
+    "siteurl": "https://zcx0217.qzz.io/",
+    "imgurl": "/friends/avatars/zcx0217-qzz-io.avif",
+    "tags": [
+      "Blog"
+    ],
+    "weight": 8,
+    "enabled": true
+  },
+  {
+    "title": "ElysiumStack",
+    "desc": "不会摄影的设计师不是优秀的旅行家",
+    "siteurl": "https://blog.elysium-stack.cn/",
+    "imgurl": "/friends/avatars/elysiumstack.avif",
+    "tags": [
+      "Blog"
+    ],
+    "weight": 8,
+    "enabled": true
+  },
+  {
+    "title": "我剑也未尝不利",
+    "desc": "对所有的烦恼说拜拜，对所有的快乐说嗨嗨~",
+    "siteurl": "https://tch.cool",
+    "imgurl": "/friends/avatars/tch-cool.avif",
+    "tags": [
+      "Blog"
+    ],
+    "weight": 8,
+    "enabled": true
+  },
+  {
+    "title": "益友网站",
+    "desc": "记生活点滴，留岁月温柔。",
+    "siteurl": "https://www.yiyou.bj.cn",
+    "imgurl": "/friends/avatars/yiyou-bj-cn.avif",
+    "tags": [
+      "Blog"
+    ],
+    "weight": 8,
+    "enabled": true
+  },
+  {
+    "title": "年华",
+    "desc": "分享生活和技术。",
+    "siteurl": "https://blog.amamo.top",
+    "imgurl": "/friends/avatars/q1-qlogo-cn.avif",
+    "tags": [
+      "Blog"
+    ],
+    "weight": 8,
+    "enabled": true
+  },
+  {
+    "title": "Olinl Blog",
+    "desc": "分享、实践、学习。",
+    "siteurl": "https://blog.olinl.com",
+    "imgurl": "/friends/avatars/olinl-blog.avif",
+    "tags": [
+      "Blog"
+    ],
+    "weight": 8,
+    "enabled": true
+  },
+  {
+    "title": "Fqzlr Blog",
+    "desc": "躬身入局，心为主理，行有尺度，自持本心.",
+    "siteurl": "https://fqzlr.com/",
+    "imgurl": "/friends/avatars/fqzlr-blog.gif",
+    "tags": [
+      "Blog"
+    ],
+    "weight": 8,
+    "enabled": true
+  }
+]
