@@ -96,7 +96,8 @@
       "Blog"
     ],
     "weight": 8,
-    "enabled": true
+    "enabled": true,
+    "invalid": true
   },
   {
     "title": "我剑也未尝不利",
