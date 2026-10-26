@@ -96,8 +96,7 @@
       "Blog"
     ],
     "weight": 8,
-    "enabled": true,
-    "invalid": true
+    "enabled": true
   },
   {
     "title": "我剑也未尝不利",
@@ -141,7 +140,8 @@
       "Blog"
     ],
     "weight": 8,
-    "enabled": true
+    "enabled": true,
+    "invalid": true
   },
   {
     "title": "Fqzlr Blog",
