@@ -74,7 +74,8 @@
       "Blog"
     ],
     "weight": 8,
-    "enabled": true
+    "enabled": true,
+    "invalid": true
   },
   {
     "title": "孤久きりのなか",
